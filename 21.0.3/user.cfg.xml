@@ -1,0 +1,328 @@
+<options>
+	<misc.options n="misc.options" version="1">
+		<vertical_line_cols v="80 120 160"/>
+		<wleft_margin v="216"/>
+	</misc.options>
+	<language n="language.*ALL_LANGUAGES*" version="1">
+		<line_numbers_flags v="0x3"/>
+	</language>
+	<misc.fonts n="misc.fonts" version="1">
+		<unicode_source_window font_name="Inconsolata" sizex10="120" flags="0x0" configs="unix"/>
+		<sbcs_dbcs_source_window font_name="Inconsolata" sizex10="120" flags="0x0" configs="unix"/>
+		<cmdline font_name="Inconsolata" sizex10="120" flags="0x0" configs="unix"/>
+		<status font_name="Segoe UI" sizex10="100" flags="0x0" configs="unix"/>
+		<hex_source_window font_name="Inconsolata" sizex10="120" flags="0x0" configs="unix"/>
+		<file_manager_window font_name="Segoe UI" sizex10="100" flags="0x0" configs="unix"/>
+		<diff_editor_window font_name="Inconsolata" sizex10="120" flags="0x0" configs="unix"/>
+		<unicode_diff_editor_window font_name="Inconsolata" sizex10="120" flags="0x0" configs="unix"/>
+		<function_help font_name="Segoe UI" sizex10="100" flags="0x0" configs="unix"/>
+		<function_help_fixed font_name="Inconsolata" sizex10="100" flags="0x0" configs="unix"/>
+		<selection_list font_name="Inconsolata" sizex10="100" flags="0x0" configs="unix"/>
+		<menu font_name="Segoe UI" sizex10="100" flags="0x0" configs="unix"/>
+		<dialog font_name="Segoe UI" sizex10="100" flags="0x0" configs="unix"/>
+		<minihtml_proportional font_name="Inconsolata" sizex10="120" flags="0x0" configs="unix"/>
+		<minihtml_fixed font_name="Inconsolata" sizex10="120" flags="0x0" configs="unix"/>
+		<document_tabs font_name="Default Dialog Font" sizex10="100" flags="0x0" configs="unix"/>
+	</misc.fonts>
+	<misc.tag_file_list n="misc.tag_file_list" version="1" configs="unix">
+		<p n="java" v=""/>
+		<p n="vpj" v="%SLICKEDITCONFIGVERSION%tagfiles/xml.vtg"/>
+		<p n="pl" v="%SLICKEDITCONFIGVERSION%tagfiles/perl.vtg"/>
+	</misc.tag_file_list>
+	<misc.def_vars n="misc.def_vars" version="1">
+		<p n="def_symbol_color_profile" v="All symbols - Default"/>
+		<p n="def_workspace_info" configs="unix">
+			<array>
+				<class.WORKSPACE_LIST>
+					<isFolder v="1"/>
+					<filename/>
+					<caption v="Sample Workspaces"/>
+					<u>
+						<array>
+							<class.WORKSPACE_LIST>
+								<isFolder v="0"/>
+								<filename v="%SLICKEDITCONFIGVERSION%SampleProjects/clang/clang.vpw"/>
+								<caption v=""/>
+								<u v=""/>
+								<projectname v="%SLICKEDITCONFIGVERSION%SampleProjects/clang/clang.vpj"/>
+							</class.WORKSPACE_LIST>
+							<class.WORKSPACE_LIST>
+								<isFolder v="0"/>
+								<filename v="%SLICKEDITCONFIGVERSION%SampleProjects/java/java.vpw"/>
+								<caption v=""/>
+								<u v=""/>
+								<projectname v="%SLICKEDITCONFIGVERSION%SampleProjects/java/java.vpj"/>
+							</class.WORKSPACE_LIST>
+							<class.WORKSPACE_LIST>
+								<isFolder v="0"/>
+								<filename v="%SLICKEDITCONFIGVERSION%SampleProjects/ucpp/cpp.vpw"/>
+								<caption v=""/>
+								<u v=""/>
+								<projectname v="%SLICKEDITCONFIGVERSION%SampleProjects/ucpp/cpp.vpj"/>
+							</class.WORKSPACE_LIST>
+						</array>
+					</u>
+					<projectname/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Carbon/Carbon.vpw"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Carbon/Carbon.Test/Carbon.Test.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/DDicUtility/DdicUtility.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/GDPdU4SAP/GDPdU4SAP.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/Freetown.Test/Freetown.Test.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/Dublin.Test/Dublin.Test.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/SmartXSDKDriver/SmartXSdkDriver.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v="\n"/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/Common/Common.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/Common.Test/Common.Test.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/AccessComDriver/AccessComDriver.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/Access/Access.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/SmartExporter/SmartExporter.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/SmartExporterResources/SmartExporterResources.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/VirtualFileSystem/Faststorage/Faststorage.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/Web/Audicon.Web/Audicon.Web.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/Audicon.Controls.Overlay/Audicon.Controls.Overlay/Audicon.Controls.Overlay.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/SmartAnalyzerPlugin/SmartAnalyzerPlugin/SmartAnalyzerPlugin.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/Extract/Extract.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/Sea.Test/Sea.Test.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/Launcher/Launcher.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/cdr/cdr.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/cdr.Test/cdr.Test.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/saprep/saprep.vpj"/>
+				</class.WORKSPACE_LIST>
+				<class.WORKSPACE_LIST>
+					<isFolder v="0"/>
+					<filename v="/home/jon.chick/Code/Hydrogen/Tripitaka.sln"/>
+					<caption v=""/>
+					<u v=""/>
+					<projectname v="/home/jon.chick/Code/Hydrogen/DisplayLog/DisplayLog.vpj"/>
+				</class.WORKSPACE_LIST>
+			</array>
+		</p>
+		<p n="def_outline_view_tryme_nag_shown" v="1"/>
+		<p n="def_proc_tree_options" v="1"/>
+		<p n="def_proctree_flags" v="0xFF500003"/>
+		<p n="def_find_symbol_flags" v="0xFF400581"/>
+		<p n="def_pip_on" v="1"/>
+		<p n="def_toolbar_pic_size" v="16x16"/>
+		<p n="def_cvs_exe_path" v="/usr/bin/cvs" configs="unix"/>
+		<p n="def_git_exe_path" v="/usr/bin/git" configs="unix"/>
+		<p n="def_svn_exe_path" v="/usr/bin/svn" configs="unix"/>
+		<p n="def_debug_number_formats">
+			<dict>
+				<p n="char">
+					<class.DebugNumberFormat>
+						<base v="256"/>
+					</class.DebugNumberFormat>
+				</p>
+				<p n="double">
+					<class.DebugNumberFormat>
+						<base v="10"/>
+					</class.DebugNumberFormat>
+				</p>
+				<p n="float">
+					<class.DebugNumberFormat>
+						<base v="10"/>
+					</class.DebugNumberFormat>
+				</p>
+				<p n="int">
+					<class.DebugNumberFormat>
+						<base v="10"/>
+					</class.DebugNumberFormat>
+				</p>
+				<p n="long">
+					<class.DebugNumberFormat>
+						<base v="10"/>
+					</class.DebugNumberFormat>
+				</p>
+				<p n="short">
+					<class.DebugNumberFormat>
+						<base v="10"/>
+					</class.DebugNumberFormat>
+				</p>
+				<p n="unsigned">
+					<class.DebugNumberFormat>
+						<base v="10"/>
+					</class.DebugNumberFormat>
+				</p>
+			</dict>
+		</p>
+	</misc.def_vars>
+	<misc.file_mappings n="misc.file_mappings" version="1">
+		<p n="bourneshell;/home/jon.chick/Code/OpenSUSE/Packages/Consolas/buildRPM" v="121"/>
+		<p n="bourneshell;/home/jon.chick/Code/OpenSUSE/Packages/DotNet/rpmprov" v="122"/>
+		<p n="bourneshell;/home/jon.chick/Code/OpenSUSE/Packages/SlickEdit/rpmprov" v="123"/>
+	</misc.file_mappings>
+	<language n="language.rul" version="1">
+		<indent_case v="0"/>
+	</language>
+	<misc.environment n="misc.environment" version="1" configs="unix">
+		<p n="VSLICKBACKUP" v=""/>
+	</misc.environment>
+	<misc.url_mappings n="misc.url_mappings" version="1"/>
+	<language n="language.xml" version="1">
+		<referenced_in_langids v="dtd xhtml xsd"/>
+	</language>
+	<language n="language.asm390" version="1">
+		<numbering_style v="2"/>
+	</language>
+	<misc.file_extensions n="misc.file_extensions" version="1">
+		<d n="langid-eventHandlers"/>
+		<d n="langid-scriptTerminology"/>
+		<d n="langid-scriptSuite"/>
+	</misc.file_extensions>
+	<eventtab_profiles n="eventtab_profiles.emulation-CUA" version="1">
+		<p n="'A-UP'" v="move-lines-up"/>
+		<p n="'A-DOWN'" v="move-lines-down"/>
+	</eventtab_profiles>
+	<language n="language.cics" version="1">
+		<numbering_style v="2"/>
+	</language>
+	<language n="language.prg" version="1">
+		<indent_case v="0"/>
+	</language>
+	<language n="language.for" version="1">
+		<numbering_style v="2"/>
+	</language>
+	<language n="language.jcl" version="1">
+		<numbering_style v="2"/>
+	</language>
+	<language n="language.pl1" version="1">
+		<numbering_style v="2"/>
+		<code_margins v=" "/>
+	</language>
+	<language n="language.rexx" version="1">
+		<numbering_style v="2"/>
+	</language>
+	<language n="language.d" version="1">
+		<nl_before_else v="1"/>
+	</language>
+</options>

@@ -1,0 +1,10 @@
+<!DOCTYPE Compilers SYSTEM "http://www.slickedit.com/dtd/vse/10.0/compilers.dtd">
+<Compilers Version="10.0">
+	<C_Configuration
+		Name="Unix Includes"
+		Header="sysconfig/vsparser/g++-linux.h">
+		<Includes>
+			<Include Dir="/usr/include/"/>
+		</Includes>
+	</C_Configuration>
+</Compilers>
