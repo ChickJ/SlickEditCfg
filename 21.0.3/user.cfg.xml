@@ -7,7 +7,7 @@
 		<line_numbers_flags v="0x3"/>
 	</language>
 	<misc.fonts n="misc.fonts" version="1">
-		<unicode_source_window font_name="Inconsolata" sizex10="120" flags="0x0" configs="unix"/>
+		<unicode_source_window font_name="Inconsolata" sizex10="140" flags="0x0" configs="unix"/>
 		<sbcs_dbcs_source_window font_name="Inconsolata" sizex10="120" flags="0x0" configs="unix"/>
 		<cmdline font_name="Inconsolata" sizex10="120" flags="0x0" configs="unix"/>
 		<status font_name="Segoe UI" sizex10="100" flags="0x0" configs="unix"/>
@@ -275,6 +275,7 @@
 				</p>
 			</dict>
 		</p>
+		<p n="def_color_scheme" v="Light (Visual Studio)"/>
 	</misc.def_vars>
 	<misc.file_mappings n="misc.file_mappings" version="1">
 		<p n="bourneshell;/home/jon.chick/Code/OpenSUSE/Packages/Consolas/buildRPM" v="121"/>
@@ -325,4 +326,75 @@
 	<language n="language.d" version="1">
 		<nl_before_else v="1"/>
 	</language>
+	<color_profiles n="color_profiles.Light (Visual Studio)" version="1">
+		<p n="associated_symbol_profile" v="All symbols - Default"/>
+		<p n="selection" fg="0x0" bg="0xE0C0C0" flags="0x0" embg="0xCCB0B0"/>
+		<p n="window_text" fg="0x0" bg="0xFFFFFF" flags="0x0" embg="0xD8D8D8"/>
+		<p n="cline" fg="0xFF0000" bg="0xC8FFFF" flags="0x0" embg="0xC0E0E0"/>
+		<p n="selected_cline" fg="0xFF0000" bg="0xC0D8D8" flags="0x0" embg="0xA0BCBC"/>
+		<p n="message" fg="0x80000008" bg="0x80000005" flags="0x0"/>
+		<p n="status" fg="0x80000008" bg="0x80000005" flags="0x0"/>
+		<p n="cursor" fg="0x0" bg="0xC0C0C0" flags="0x0" embg="0x909090"/>
+		<p n="error" fg="0xFFFFFF" bg="0xFF" flags="0x0" embg="0xD8D8D8"/>
+		<p n="modified_line" fg="0xFFFFFF" bg="0xFF" flags="0x0" embg="0xCF"/>
+		<p n="inserted_line" fg="0xFFFFFF" bg="0x80" flags="0x0" embg="0x3030B0"/>
+		<p n="keyword" fg="0xFF0000" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="linenum" fg="0x808080" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="number" fg="0x5A8809" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="string" fg="0x1515A3" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="comment" fg="0x8000" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="ppkeyword" fg="0x8080" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="punctuation" fg="0x0" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="library_symbol" fg="0xFF0000" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="operator" fg="0x0" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="user_defined" fg="0x804000" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="imaginary_line" fg="0x606060" bg="0xFFFF80" flags="0x0" embg="0xFFFF00"/>
+		<p n="function" fg="0x0" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="lineprefixarea" fg="0x828809" bg="0xFFFFFF" flags="0x2000"/>
+		<p n="filename" fg="0x0" bg="0xC0C0C0" flags="0x0" embg="0xA0A0A0"/>
+		<p n="hilight" fg="0x0" bg="0xC0C0C0" flags="0x0" embg="0xA0A0A0"/>
+		<p n="attribute" fg="0x0" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="unknownxmlelement" fg="0x80FF" bg="0xFFFFFF" flags="0x2001" embg="0xD8D8D8"/>
+		<p n="xhtmlelementinxsl" fg="0x8080" bg="0xFFFFFF" flags="0x2001" embg="0xD8D8D8"/>
+		<p n="specialchars" fg="0xC0C0C0" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="current_line_box" fg="0xFF8080" bg="0xFF8080" flags="0x0"/>
+		<p n="vertical_col_line" fg="0x808080" bg="0x808080" flags="0x0"/>
+		<p n="margins_col_line" fg="0x808080" bg="0x808080" flags="0x0"/>
+		<p n="truncation_col_line" fg="0xFF" bg="0xFF" flags="0x0"/>
+		<p n="prefix_area_line" fg="0xC0C0C0" bg="0xC0C0C0" flags="0x0"/>
+		<p n="block_matching" fg="0x0" bg="0x969696" flags="0x0" embg="0xD8D8D8"/>
+		<p n="inc_search_current" fg="0x0" bg="0xFFFF80" flags="0x0" embg="0xCFCF50"/>
+		<p n="inc_search_match" fg="0x0" bg="0x80FFFF" flags="0x0" embg="0x50CFCF"/>
+		<p n="hex_mode_color" fg="0x80" bg="0xF0F0F0" flags="0x0" embg="0xC8C8C8"/>
+		<p n="symbol_highlight" fg="0xFF0000" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="document_tab_modified" fg="0xFF" bg="0xFFFFFF" flags="0x0"/>
+		<p n="line_comment" fg="0x8000" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="documentation" fg="0x8000" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="doc_keyword" fg="0x1515A3" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="doc_punctuation" fg="0x404040" bg="0xFFFFFF" flags="0x2001" embg="0xD8D8D8"/>
+		<p n="doc_attribute" fg="0xFF" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="doc_attr_value" fg="0x1515A3" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="identifier" fg="0x0" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="floating_number" fg="0x5A8809" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="hex_number" fg="0x5A8809" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="singlequoted_string" fg="0x1515A3" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="backquoted_string" fg="0x1515A0" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="unterminated_string" fg="0x1515A3" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="inactive_code" fg="0x808080" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="inactive_keyword" fg="0x808080" bg="0xFFFFFF" flags="0x2001" embg="0xD8D8D8"/>
+		<p n="imaginary_space" fg="0x8000" bg="0xFF80" flags="0x0" embg="0xFF00"/>
+		<p n="inactive_comment" fg="0x808080" bg="0xFFFFFF" flags="0x2002" embg="0xD8D8D8"/>
+		<p n="modified_item" fg="0xFF" bg="0xFFFFFF" flags="0x0"/>
+		<p n="navhint" fg="0x80FF" bg="0xFFFFFF" flags="0x0"/>
+		<p n="xml_character_ref" fg="0x800000" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="search_result_truncated" fg="0xC0C0C0" bg="0xFFFFFF" flags="0x0"/>
+		<p n="markdown_header" fg="0x800080" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="markdown_code" fg="0x808000" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="markdown_blockquote" fg="0x40C0" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="markdown_link" fg="0x800000" bg="0xFFFFFF" flags="0x2000" embg="0xD8D8D8"/>
+		<p n="document_tab_active" fg="0x80000008" bg="0x80000005" flags="0x0"/>
+		<p n="document_tab_selected" fg="0x80000008" bg="0x80000005" flags="0x0"/>
+		<p n="document_tab_unselected" fg="0x80000008" bg="0x80000005" flags="0x0"/>
+		<p n="selective_display_line" fg="0xB0C0B0" bg="0xB0C0B0" flags="0x0"/>
+	</color_profiles>
 </options>

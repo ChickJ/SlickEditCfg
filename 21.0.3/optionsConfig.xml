@@ -1,10 +1,28 @@
 <History>
 	<Option Path="All Options &gt; Languages &gt; Language=*ALL_LANGUAGES* &gt; View" DateChanged="20170629085550800" ChangeMethod="0">
 	</Option>
-	<Option Path="All Options &gt; Appearance &gt; Fonts" DateChanged="20170720062246044" ChangeMethod="0">
+	<Option Path="All Options &gt; Appearance &gt; Fonts" DateChanged="20170724113007401" ChangeMethod="0">
 	</Option>
 	<Option Path="All Options &gt; Appearance &gt; General &gt; Vertical line columns" DateChanged="20170721080528408" ChangeMethod="0">
 	</Option>
 	<Option Path="Options Import" DateChanged="20170724061334051" ChangeMethod="1">
+	</Option>
+	<Option Path="All Options &gt; Appearance &gt; Colors" DateChanged="20170724114434791" ChangeMethod="0">
+	</Option>
+	<Option Path="All Options &gt; Languages &gt; Application Languages &gt; Language=cs &gt; General" DateChanged="20170724121139230" ChangeMethod="0">
+	</Option>
+	<Option Path="All Options &gt; Languages &gt; Application Languages &gt; Language=cs &gt; View" DateChanged="20170724121437249" ChangeMethod="0">
+	</Option>
+	<Option Path="All Options &gt; Languages &gt; Application Languages &gt; Language=cs &gt; File Options &gt; Expand tabs to spaces" DateChanged="20170724121918812" ChangeMethod="0">
+	</Option>
+	<Option Path="All Options &gt; Languages &gt; Application Languages &gt; Language=cs &gt; File Options &gt; Strip trailing spaces" DateChanged="20170724121918812" ChangeMethod="0">
+	</Option>
+	<Option Path="All Options &gt; Languages &gt; Application Languages &gt; Language=cs &gt; File Options &gt; Line format" DateChanged="20170724121918812" ChangeMethod="0">
+	</Option>
+	<Option Path="All Options &gt; Languages &gt; Application Languages &gt; Language=cs &gt; Auto-Surround" DateChanged="20170724122007410" ChangeMethod="0">
+	</Option>
+	<Option Path="All Options &gt; Languages &gt; Application Languages &gt; Language=cs &gt; Auto-Close" DateChanged="20170724122034305" ChangeMethod="0">
+	</Option>
+	<Option Path="All Options &gt; Languages &gt; Application Languages &gt; Language=cs &gt; Auto-Complete" DateChanged="20170724122117298" ChangeMethod="0">
 	</Option>
 </History>
