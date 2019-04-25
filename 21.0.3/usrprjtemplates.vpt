@@ -1,0 +1,45 @@
+<!DOCTYPE Templates SYSTEM "http://www.slickedit.com/dtd/vse/10.0/vpt.dtd">
+<Templates
+	Version="10.0"
+	VendorName="SlickEdit">
+	<Template
+		Name="C#: .NET Core"
+		InitMacro="show_project_properties_files_tab">
+		<Config Name="Release">
+			<Menu>
+				<Target
+					Name="Restore"
+					MenuCaption="&amp;Restore"
+					RunFromDir="%rw"
+					CaptureOutputWith="ProcessBuffer"
+					SaveOption="SaveNone">
+					<Exec CmdLine="dotnet restore"/>
+				</Target>
+				<Target
+					Name="Build"
+					MenuCaption="&amp;Build"
+					CaptureOutputWith="ProcessBuffer"
+					SaveOption="SaveWorkspaceFiles"
+					RunFromDir="%rw">
+					<Exec CmdLine="dotnet build" />
+				</Target>
+				<Target
+					Name="Test"
+					MenuCaption="&amp;Test"
+					RunFromDir="%rw"
+					CaptureOutputWith="ProcessBuffer"
+					SaveOption="SaveNone">
+					<Exec CmdLine="dotnet test"/>
+				</Target>
+				<Target
+					Name="Clean"
+					MenuCaption="&amp;Clean"
+					RunFromDir="%rw"
+					CaptureOutputWith="ProcessBuffer"
+					SaveOption="SaveNone">
+					<Exec CmdLine="git clean -xdf"/>
+				</Target>
+			</Menu>
+		</Config>
+	</Template>
+</Templates>
