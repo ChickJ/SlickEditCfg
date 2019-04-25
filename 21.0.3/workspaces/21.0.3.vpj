@@ -1,0 +1,33 @@
+<!DOCTYPE Project SYSTEM "http://www.slickedit.com/dtd/vse/10.0/vpj.dtd">
+<Project
+    Version="10.0"
+    VendorName="SlickEdit"
+    TemplateName="(Other)"
+    WorkingDir=".">
+    <Config
+        Name="Release"
+        OutputFile=""
+        CompilerConfigName="">
+        <Menu>
+            <Target
+                Name="Compile"
+                MenuCaption="&amp;Compile"
+                CaptureOutputWith="ProcessBuffer"
+                SaveOption="SaveCurrent"
+                RunFromDir="%rw">
+                <Exec/>
+            </Target>
+        </Menu>
+    </Config>
+    <Files>
+        <Folder
+            Name="Slick-C"
+            Filters="*.e"
+            GUID="{4EF244D9-0C60-4E4E-ACC8-F65BA75857A4}">
+            <F
+                N="/usr/lib64/slickedit/*.e"
+                Recurse="1"
+                Excludes=""/>
+        </Folder>
+    </Files>
+</Project>
